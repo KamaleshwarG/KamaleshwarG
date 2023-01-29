@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KamaleshwarG
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on Python mini and major projects
+- 🌱 I’m currently pursuing MCA
+- 💞️ I’m looking to collaborate on python projects and datstructures using C programming 
 - 📫Reach me via mail g.kamaleshleo@gmail.com
 
 <!---
