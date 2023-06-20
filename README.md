@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KamaleshwarG
 - 👀 I’m interested in software developing
 - 🌱 I’m currently pursuing MCA
-- 💞️ I’m looking to collaborate on python projects and data structures using C programming 
+- 💞️ I’m looking to collaborate on python projects and DSA
 - 📫Reach me via mail g.kamaleshleo@gmail.com
 
 <!---
