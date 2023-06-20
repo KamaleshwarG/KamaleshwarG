@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developing
 - 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to collaborate on python projects and DSA
-- 📫Reach me via mail g.kamaleshleo@gmail.com
+- 📫Reach me via mail g.kamaleshleo1@gmail.com
 
 <!---
 KamaleshwarG/KamaleshwarG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
